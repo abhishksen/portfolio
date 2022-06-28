@@ -1,4 +1,4 @@
-# portfolio.abhishek.sen
+# portfolio
 This is my actual portfolio website with complete details of what i do and what are my qualifications, skills &amp; job experience.
 
 ![p1](https://user-images.githubusercontent.com/100835323/175827779-472d3c8d-ee9e-4c39-aca7-16e8665b9083.png)
